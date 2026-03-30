@@ -1,0 +1,5 @@
+N64 TOSEC 03.01.2016
+Details: https://archive.org/details/N64TOSEC
+Download: https://archive.org/compress/N64TOSEC
+N64TOSEC.zip MD5 33519c98b8992bc6cf79cd15497978fa
+unzip '*.zip' -d IN_N64
