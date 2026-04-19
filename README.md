@@ -27,7 +27,7 @@ The intended region preference for this set is:
 - `sort_n64_roms.py` – main Python sorter
 - `convert_to_n64.sh` – conversion script for `.v64` / `.z64` to `.n64`
 - `N64 UK Complete Game List.xlsx` – main spreadsheet used by the sorter
-- `DD64 Game List.xlsx` – additional spreadsheet
+- `64DD Game List.xlsx` – additional spreadsheet
 - `n64romconvert` – converter binary
 - `n64romtype` – helper binary used by the converter
 - `extras/wallpaper.png` – SummerCart64 wallpaper
